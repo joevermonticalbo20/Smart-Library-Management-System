@@ -8,6 +8,7 @@ Project Modules
 - Book Returning
 - Inventory Management
 - Reports
+- User Accounts
 
 Development Team
 Student Name: Jon Joever M. Monticalbo
