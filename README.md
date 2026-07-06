@@ -4,8 +4,10 @@ The Smart Library Management System (SLMS) is a web-based application designed t
 Project Modules
 - Member Management
 - Book Catalog
-- Borrowing
-- Returning
+- Book Borrowing
+- Book Returning
+- Inventory Management
+- Reports
 
 Development Team
 Student Name: Jon Joever M. Monticalbo
