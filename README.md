@@ -25,3 +25,12 @@ Features
 
 MAIN
 MAIN 1
+
+
+Contributor Update
+
+Contributor Name: Joever Monticalbo
+
+Feature Added:
+- Digital Library Dashboard
+
