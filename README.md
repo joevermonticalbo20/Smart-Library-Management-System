@@ -24,3 +24,12 @@ Features
 - Search Member
 
 MAIN
+
+
+Contributor Update
+
+Contributor Name: Joever Monticalbo
+
+Feature Added:
+- Digital Library Dashboard
+
